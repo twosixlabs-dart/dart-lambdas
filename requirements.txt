@@ -1,0 +1,12 @@
+## This file is formatted to be read by setup.py. The dependency groups
+## listed below require the comments for parsing.
+
+# TEST_DEPENDENCIES
+pytest
+moto
+mock
+
+# INSTALL_DEPENDENCIES
+boto3
+botocore
+requests

@@ -1,0 +1,17 @@
+{
+  "capture_source": "BackgroundSource",
+  "extracted_metadata": {
+    "CreationDate": "2015-11-02",
+    "ModDate": "2015-11-02",
+    "Pages": 20,
+    "Creator": "Xerox WorkCentre 5765",
+    "Producer": "Xerox WorkCentre 5765"
+  },
+  "content_type": "application/pdf",
+  "team": "Two Six Labs",
+  "document_id": "c017baae736fae179b1388aa50478441",
+  "uri": "http://test-file/documents/sources#c017baae736fae179b1388aa50478441",
+  "source_uri": "c017baae736fae179b1388aa50478441.pdf",
+  "timestamp": "2020-05-28T20:28:48.000Z",
+  "annotations": []
+}

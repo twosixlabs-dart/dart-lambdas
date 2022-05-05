@@ -1,0 +1,17 @@
+.idea/*
+.DS_Store
+env
+env/*
+__pycache__
+.pytest_cache
+target/*
+*.pyc
+build
+dist
+.eggs
+*.egg-info
+venv
+.venv
+venv/*
+lambda
+*.zip
